@@ -1,11 +1,4 @@
 Hello! I am learning Git on Ubuntu.
-
-
-
-
 my first modification to the file.
 i am learning GitHub
-
-
-
 i am adding one more line to the file.
